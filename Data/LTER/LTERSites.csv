@@ -1,0 +1,76 @@
+Name,latitude,longitude,Habitat,site,category
+LTER1,-17.485,-149.835,Fringe,MCR,Benthic
+LTER2,-17.481,-149.799,Fringe,MCR,Benthic
+LTER3,-17.514,-149.767,Fringe,MCR,Benthic
+LTER4,-17.544,-149.774,Fringe,MCR,Benthic
+LTER5,-17.579,-149.864,Fringe,MCR,Benthic
+LTER6,-17.516,-149.914,Fringe,MCR,Benthic
+LTER1,-17.478,-149.843,Back reef,MCR,Benthic
+LTER2,-17.477,-149.802,Back reef,MCR,Benthic
+LTER3,-17.515,-149.764,Back reef,MCR,Benthic
+LTER4,-17.544,-149.77,Back reef,MCR,Benthic
+LTER5,-17.578,-149.872,Back reef,MCR,Benthic
+LTER6,-17.522,-149.921,Back reef,MCR,Benthic
+LTER1,-17.475,-149.837,Fore reef,MCR,Benthic
+LTER2,-17.472,-149.809,Fore reef,MCR,Benthic
+LTER3,-17.515,-149.762,Fore reef,MCR,Benthic
+LTER4,-17.548,-149.769,Fore reef,MCR,Benthic
+LTER5,-17.581,-149.875,Fore reef,MCR,Benthic
+LTER6,-17.52,-149.924,Fore reef,MCR,Benthic
+LTER1,-17.485,-149.835,Fringe,MCR,Fish
+LTER2,-17.481,-149.799,Fringe,MCR,Fish
+LTER3,-17.514,-149.767,Fringe,MCR,Fish
+LTER4,-17.544,-149.774,Fringe,MCR,Fish
+LTER5,-17.579,-149.864,Fringe,MCR,Fish
+LTER6,-17.516,-149.914,Fringe,MCR,Fish
+LTER1,-17.478,-149.843,Back reef,MCR,Fish
+LTER2,-17.477,-149.802,Back reef,MCR,Fish
+LTER3,-17.515,-149.764,Back reef,MCR,Fish
+LTER4,-17.544,-149.77,Back reef,MCR,Fish
+LTER5,-17.578,-149.872,Back reef,MCR,Fish
+LTER6,-17.522,-149.921,Back reef,MCR,Fish
+LTER1,-17.475,-149.837,Fore reef,MCR,Fish
+LTER2,-17.472,-149.809,Fore reef,MCR,Fish
+LTER3,-17.515,-149.762,Fore reef,MCR,Fish
+LTER4,-17.548,-149.769,Fore reef,MCR,Fish
+LTER5,-17.581,-149.875,Fore reef,MCR,Fish
+LTER6,-17.52,-149.924,Fore reef,MCR,Fish
+LTER1,-17.485,-149.835,Fringe,MCR,Temperature
+LTER2,-17.481,-149.799,Fringe,MCR,Temperature
+LTER3,-17.514,-149.767,Fringe,MCR,Temperature
+LTER4,-17.544,-149.774,Fringe,MCR,Temperature
+LTER5,-17.579,-149.864,Fringe,MCR,Temperature
+LTER6,-17.516,-149.914,Fringe,MCR,Temperature
+LTER1,-17.478,-149.843,Back reef,MCR,Temperature
+LTER2,-17.477,-149.802,Back reef,MCR,Temperature
+LTER3,-17.515,-149.764,Back reef,MCR,Temperature
+LTER4,-17.544,-149.77,Back reef,MCR,Temperature
+LTER5,-17.578,-149.872,Back reef,MCR,Temperature
+LTER6,-17.522,-149.921,Back reef,MCR,Temperature
+LTER1,-17.475,-149.837,Fore reef,MCR,Temperature
+LTER2,-17.472,-149.809,Fore reef,MCR,Temperature
+LTER3,-17.515,-149.762,Fore reef,MCR,Temperature
+LTER4,-17.548,-149.769,Fore reef,MCR,Temperature
+LTER5,-17.581,-149.875,Fore reef,MCR,Temperature
+LTER6,-17.52,-149.924,Fore reef,MCR,Temperature
+LTER1,-17.485,-149.835,Fringe,MCR,Biogeochemical
+LTER2,-17.481,-149.799,Fringe,MCR,Biogeochemical
+LTER3,-17.514,-149.767,Fringe,MCR,Biogeochemical
+LTER4,-17.544,-149.774,Fringe,MCR,Biogeochemical
+LTER5,-17.579,-149.864,Fringe,MCR,Biogeochemical
+LTER6,-17.516,-149.914,Fringe,MCR,Biogeochemical
+LTER1,-17.478,-149.843,Back reef,MCR,Biogeochemical
+LTER2,-17.477,-149.802,Back reef,MCR,Biogeochemical
+LTER3,-17.515,-149.764,Back reef,MCR,Biogeochemical
+LTER4,-17.544,-149.77,Back reef,MCR,Biogeochemical
+LTER5,-17.578,-149.872,Back reef,MCR,Biogeochemical
+LTER6,-17.522,-149.921,Back reef,MCR,Biogeochemical
+LTER1,-17.475,-149.837,Fore reef,MCR,Biogeochemical
+LTER2,-17.472,-149.809,Fore reef,MCR,Biogeochemical
+LTER3,-17.515,-149.762,Fore reef,MCR,Biogeochemical
+LTER4,-17.548,-149.769,Fore reef,MCR,Biogeochemical
+LTER5,-17.581,-149.875,Fore reef,MCR,Biogeochemical
+LTER6,-17.52,-149.924,Fore reef,MCR,Biogeochemical
+LTER1,-17.475,-149.837,Fore reef,MCR,Physical Oceanography
+LTER4,-17.548,-149.769,Fore reef,MCR,Physical Oceanography
+LTER5,-17.581,-149.875,Fore reef,MCR,Physical Oceanography
